@@ -1,7 +1,7 @@
 login-validacion-cliente
 ========================
 
-Ejemplo de un login con validacion antes de enviar, echo con:
+Ejemplo de un login con validacion antes de enviar, utiliza:
 <ul>
 <li>HTML5</li>
 <li>Bootstrap</li>
